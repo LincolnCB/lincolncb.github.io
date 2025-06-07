@@ -1,0 +1,9 @@
+baseURL: https://lincolncb.github.io/
+author: Lincoln Craven-Brightman
+languageCode: en-us
+title: LCB
+theme: hextra
+
+caches:
+  images:
+    dir: :cacheDir/images
