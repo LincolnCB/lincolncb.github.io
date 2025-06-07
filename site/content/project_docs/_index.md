@@ -5,3 +5,5 @@ title: 'Project docs'
 cascade:
   type: docs
 ---
+
+Documentation for projects, like the MGH Martinos Center [Shim Amplifier](/project_docs/shim_amplifier/).
