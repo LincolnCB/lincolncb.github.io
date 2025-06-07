@@ -6,6 +6,6 @@ title: 'Lincoln Craven-Brightman'
 
 Website in progress.
 
-[Demo draft page](/demo_draft_page/)
+[Demo draft page](/demo_draft_page/) (won't show up online, only locally)
 
 [Project docs](/project_docs/)
