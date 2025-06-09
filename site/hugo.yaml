@@ -7,3 +7,21 @@ theme: hextra
 caches:
   images:
     dir: :cacheDir/images
+
+menu:
+  main:
+    - name: About Me
+      pageRef: /about
+      weight: 1
+    - name: Projects
+      pageRef: /projects
+      weight: 2
+    - name: Search
+      weight: 100
+      params:
+        type: search
+    - name: GitHub
+      weight: 101
+      url: https://github.com/LincolnCB
+      params:
+        icon: github
